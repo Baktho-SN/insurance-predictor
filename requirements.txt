@@ -1,0 +1,15 @@
+numpy
+joblib
+fastapi
+jinja2
+python-multipart
+uvicorn
+aiofiles
+jupyterlab
+matplotlib
+scikit-learn
+scikit-plot
+scipy
+seaborn
+yellowbrick
+xgboost
