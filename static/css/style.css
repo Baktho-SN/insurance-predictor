@@ -1,0 +1,71 @@
+body {
+  background: linear-gradient(90deg, #B0D1EB 0%, #003D45 100%);
+  color: linear-gradient(90deg, #B0D1EB 0%, #003D45 100%);
+}
+
+input {
+  width: 40%;  
+  border: 4px solid #ccc; /* Gray border */
+  border-radius: 14px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  }
+}
+
+select {
+  width: 40%; 
+  border: 4px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top:10px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  
+}
+}
+
+h1,
+h2,
+h3,
+h4,
+h5
+span,
+strike {
+  font-family: "Calibri" ,sans-serif;
+  
+}
+
+h3{
+  text-shadow: 1px 1px 2px #000000;
+}
+
+.form-container {
+  border-radius: 5px;
+  background-color: linear-gradient(90deg, #B0D1EB 0%, #003D45 100%);
+  padding: 20px;
+  text-align: flex-start;
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.25), 0 15px 15px rgba(0, 0, 0, 0.22);
+}
+
+.container { 
+  padding-top: 100px;
+  padding-right: 400px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: flex-start;
+}
+
+
+#submit {
+  width: 20%; 
+  margin-top: 20px;
+  background-color: black;
+  border-radius: 5px;
+  color: #fff;
+  opacity: 1;
+  transition: opacity 1s ease 0s;
+}
+
+#submit:hover {
+  opacity: 0.5;
+}

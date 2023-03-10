@@ -1,0 +1,16 @@
+body {
+  background: #fff url(https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/38d9affd650492adbb3cb0d29daa771c.jpg) center center/cover no-repeat fixed;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5
+span,
+p,
+strike {
+  font-family: "Calibri" ,sans-serif;
+  text-align: flex-start;
+
+  }
