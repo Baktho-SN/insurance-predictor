@@ -23,7 +23,7 @@ The data contains the following columns:
 | Age                        | Age (years)                                                                                         |
 | BMI                        | Body mass index (weight in kg/(height in m)^2)                                                      |
 | Sex                        | Class variable for Gender (male or female)                                                          |
-| children                   | Number of children (count 1- 5)                                                                     |
+| children                   | Number of children (count 0- 5)                                                                     |
 | Smoker                     | Class variable (yes or no) if the person is smoker or not?                                          |
 | Charges                    | Money charged for medical insurance(currency)                                                       |
 
