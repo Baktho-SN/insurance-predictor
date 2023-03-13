@@ -69,7 +69,7 @@ uvicorn main:app --reload
 
 ### Website
 
-![app interface](markdown/home.png)
+![app interface](markdown/website.png)
 
 ### Demo
 
