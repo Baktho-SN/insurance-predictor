@@ -1,5 +1,5 @@
 # Insurance-predictor
-Medical Insurance Predictor App is used to predict whether how much a person would be charged based on the given input. Created using python's scikit-learn, Fastapi, numpy and joblib packages.
+Medical Insurance Predictor App is used to predict how much a person would be charged based on the given input. Created using python's scikit-learn, Fastapi, numpy and joblib packages.
 
 ![python 3.11.0](https://img.shields.io/badge/Python-blue.svg)
 ![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
